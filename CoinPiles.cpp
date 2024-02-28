@@ -174,6 +174,7 @@ void coinPiles(int a, int b, int flag){
 
 void solve(){
 
+    //Coin piles optimal 
     long long  a,b;
 
     cin>>a>>b;
